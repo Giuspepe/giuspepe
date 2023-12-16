@@ -3,9 +3,9 @@
 
 ##### dart makes my heart flutter 💙
 
-- 🔭 I’m currently working on my side project [lokalteil](https://www.lokalteil.app/), an app for the sharing/rental economy
-- 💬 Ask me about anything related to Flutter
-- 📫 How to reach me: [Send me a message on Twitter](https://twitter.com/messages/compose?recipient_id=966733222389350402)
+- 🤖 I'm currently studying Artificial Intelligence in Barcelona (Pompeu Fabra University) and Rome (Sapienza University): [EMAI](https://www.upf.edu/web/emai/about-this-master)
+- 💬 Ask me about anything related to Flutter or AI
+- 📫 How to reach me: [Send me a message on Twitter](https://twitter.com/messages/compose?recipient_id=966733222389350402) or [LinkedIn](https://www.linkedin.com/in/giuseppe-cianci/)
 - 😄 Pronouns: he/him
 
 #### My profiles
